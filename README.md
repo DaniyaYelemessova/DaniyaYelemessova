@@ -3,7 +3,10 @@
 
   <p align="center">
   <strong>Let's Connect and have a Chat!</strong>
-    <a href="https://www.linkedin.com/in/daniya-collings/">
+</p>
+
+  <p align="center">
+  <a href="https://www.linkedin.com/in/daniya-collings/" >My LinkedIn</a>
 </p>
 
 
