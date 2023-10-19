@@ -4,6 +4,11 @@
   <p align="center">
   <strong>Let's Connect and have a Chat!</strong>
 </p>
+  <p align="center">
+ <a href="https://www.linkedin.com/in/daniya-collings/"><img height="50" src="https://github.com/DaniyaYelemessova/DaniyaYelemessova/blob/main/317725_linkedin_social_icon.png></a>
+</p>
+
+
 <!--
 
  
