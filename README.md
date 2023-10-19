@@ -1,9 +1,11 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/DaniyaYelemessova" target="_blank">Daniya!!</a> 
 <h3 align="center">Epicodus Bootcamp student - Full-Stack Software Engineer Track </h3>
-<!--
-<p align="center">
+
+  <p align="center">
   Let's Connect and have a Chat!
 </p>
+<!--
+
  
 **DaniyaYelemessova/DaniyaYelemessova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
