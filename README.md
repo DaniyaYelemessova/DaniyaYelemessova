@@ -2,7 +2,7 @@
 <h3 align="center">Epicodus Bootcamp student - Full-Stack Software Engineer Track </h3>
 
   <p align="center">
-  Let's Connect and have a Chat!
+  <strong>Let's Connect and have a Chat!</strong>
 </p>
 <!--
 
