@@ -3,9 +3,9 @@
 
   <p align="center">
   <strong>Let's Connect and have a Chat!</strong>
+    <a href="https://www.linkedin.com/in/daniya-collings/">
 </p>
- <a href="https://www.linkedin.com/in/daniya-collings/"><img height="50" src="317725_linkedin_social_icon.png
-</a>
+
 
 
 
