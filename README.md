@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/DaniyaYelemessova" target="_blank">Daniya!!</a> 
 
   <p align="center">
-  <strong>You can find me here:</strong>
-</p>
-
-  <p align="center">
   <a href="https://www.linkedin.com/in/daniya-collings/" >My LinkedIn</a>
 </p>
 
