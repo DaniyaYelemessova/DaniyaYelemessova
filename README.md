@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/DaniyaYelemessova" target="_blank">Daniya!!</a> 
-<h3 align="center">Epicodus Bootcamp student - Full-Stack Software Engineer Track </h3>
 
   <p align="center">
   <strong>You can find me here:</strong>
